@@ -1,0 +1,84 @@
+.container .row .photos .image {
+  margin-top: 40px;
+  width: 200px;
+  height: 200px;
+}
+
+.container .row .product {
+  border-bottom: 10px solid black;
+  border-left: 10px solid black;
+  border-right: 10px solid black;
+  border-top: 10px solid black;
+  margin-top: 40px;
+}
+
+.container .row .product .title {
+  font-size: 20px;
+}
+
+.container .row .product .title:hover {
+  color: #343455;
+  font-size: 23px;
+}
+
+.container .row .product .price {
+  font-size: 15px;
+  margin-top: 5px;
+  padding: 0;
+  color: #608a8b;
+}
+
+.container .row .product .price:hover {
+  font-size: 20px;
+  color: #2424d5;
+}
+
+.container .row .product .model {
+  font-size: 25px;
+}
+
+.container .row .product .model .brand {
+  margin-top: 20px;
+  font-size: 25px;
+  list-style: none;
+}
+
+.container .row .product .model .brand .markas {
+  color: cornflowerblue;
+  margin-left: 60px;
+  font-size: 20px;
+}
+
+.container .row .product hr {
+  width: 300px;
+  color: #4b3f3f;
+}
+
+.container .row .product hr:hover {
+  height: 15px;
+  width: 400PX;
+}
+
+.container .row .product form label {
+  font-size: 20px;
+}
+
+.container .row .product form input {
+  background-color: #bfd0d0;
+  margin-top: 20px;
+  margin-left: 30px;
+}
+
+.container .row .product a {
+  color: black;
+  text-decoration: none;
+  margin-left: 440px;
+  font-size: 25px;
+}
+
+.container .row .product a:hover {
+  color: blue;
+  -webkit-text-decoration: underline solid #c9c9c9;
+          text-decoration: underline solid #c9c9c9;
+}
+/*# sourceMappingURL=index.css.map */
